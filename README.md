@@ -1,4 +1,2 @@
 # Basic Data Structures and Algorithms practice
- - `LinkedList`: add()
- - `Stack`: push(), pop()
- - `Queue`: add(), remove()
+ - This repo has some basic data structures and algs implemented in Python
