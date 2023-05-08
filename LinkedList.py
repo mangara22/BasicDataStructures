@@ -1,3 +1,4 @@
+import random
 class Node:
     def __init__(self, data, next):
         self.data = data
@@ -46,6 +47,6 @@ class LinkedList:
     
 if __name__ == '__main__':
     list = LinkedList()
-    for i in range(10):
+    for i in range(1, random.randint(2, 15)):
         list.add(str(i))
     print(list)
