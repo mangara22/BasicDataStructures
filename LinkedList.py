@@ -42,7 +42,6 @@ class LinkedList:
             else:
                 result += nodeptr.getData() + " -> "
             nodeptr = nodeptr.getNext()
-            i+=1
         return result
     
 if __name__ == '__main__':
