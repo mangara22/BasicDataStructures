@@ -1,1 +1,1 @@
-- This repo has some basic data structures and algs implemented in Python
+- This repo has some basic data structures implemented in Python
